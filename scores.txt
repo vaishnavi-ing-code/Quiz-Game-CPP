@@ -1,0 +1,4 @@
+vaishnavi|General Knowledge|Easy|7
+rocky bhai|General Knowledge|Medium|7
+rocky bhai|Science|Easy|8
+kamlesh|Mathematics|Medium|9
