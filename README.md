@@ -24,15 +24,10 @@
 * 4 Categories * 3 Difficulty Levels * 30 Questions = 360 Questions
 
 Category                  | Easy | Medium | Hard |
---------------------------|------|--------|------|
 🧮 Mathematics            |  30  |   30   |  30  |
---------------------------|------|--------|------|
 🔬 Science                |  30  |   30   |  30  |
---------------------------|------|--------|------|
 💻 Programming            |  30  |   30   |  30  |
---------------------------|------|--------|------|
 🌍 General Knowledge      |  30  |   30   |  30  |
---------------------------|------|---------|------|
 
 # 🛠 Technologies & Concepts
 This project was created using:
@@ -49,9 +44,9 @@ This project was created using:
 # 📁 Project Structure
 Quiz-Game/
 |
-|______________ main.cpp____________ 📄 Contains the main program and complete quiz logic.
-|______________ questions.txt____________ 📄 Stores all quiz questions, categories, difficulty level, options, and correct answer
-|______________ scores.txt_____________ 📄 Stores the player's quiz results and scores.
+|--------------- main.cpp-------------- 📄 Contains the main program and complete quiz logic.
+|--------------- questions.txt------------- 📄 Stores all quiz questions, categories, difficulty level, options, and correct answer
+|--------------- scores.txt---------------- 📄 Stores the player's quiz results and scores.
 
 # 📝 Question Format
 Questions are stored using | as a separator:
@@ -67,4 +62,4 @@ Make sure questions.txt is in the same project folder as the program.
 # 🎯 project Objective
 The project is to improve practical C++ programming skills by building a complete application involving file handling, functions, data management, randomization, and user interaction.
 
-👩‍💻 AUTHOR: Vaishnavi Mishra
+# 👩‍💻 AUTHOR: Vaishnavi Mishra
