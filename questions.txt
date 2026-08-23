@@ -1,0 +1,371 @@
+Mathematics|Easy|If x + 5 = 12, what is x?|5|6|7|8|C
+Mathematics|Easy|If 2x = 10, what is x?|2|7|6|5|D
+Mathematics|Easy|What is 3/4 as a decimal?|0.25|0.5|0.75|1.25|C
+Mathematics|Easy|What is 10% of 200?|10|20|30|40|B
+Mathematics|Easy|What is the next number in the sequence 2, 4, 6, 8, ...?|9|10|11|12|B
+Mathematics|Easy|What is the sum of angles in triangle?|90 degrees|180 degrees|270 degrees|360 degrees|B
+Mathematics|Easy|What is the HCF of 18 and 24?|3|6|9|12|B
+Mathematics|Easy|What is the square root of 64?|6|7|9|8|D
+Mathematics|Easy|What is half of 50?|15|25|20|35|B
+Mathematics|Easy|What is 2 + 3 * 4?|14|12|20|10|A
+Mathematics|Easy|What is the square of 9?|82|83|81|84|C
+Mathematics|Easy|What is the area of rectangle with length 8cm and width 3cm?|11cm^2|24cm^2|18cm^2|32cm^2|B
+Mathematics|Easy|What is the square root of 49?|8|7|5|6|B
+Mathematics|Easy|What is the average of 10, 20 and 30?|10|20|25|30|B
+Mathematics|Easy|What is the smallest prime number?|0|1|2|3|C
+Mathematics|Easy|How many degrees are there in a right angle?|45|60|90|180|C
+Mathematics|Easy|What is 7^2?|14|21|56|49|D
+Mathematics|Easy|What is 7 * 9?|63|57|62|58|A
+Mathematics|Easy|What is the perimeter of a square with side 5cm?|10cm|15cm|18cm|20cm|D
+Mathematics|Easy|What is 85 / 5?|32|37|35|38|B
+Mathematics|Easy|What is the area of a square with side 6cm?|12cm^2|24cm^2|32cm^2|36cm^2|D
+Mathematics|Easy|What is 36 + 27?|62|57|63|58|C
+Mathematics|Easy|What is cube of 3?|26|27|28|9|B
+Mathematics|Easy|What is the LCM of 4 and 6?|8|10|12|24|C
+Mathematics|Easy|What is 12 * 6?|72|62|74|68|A
+Mathematics|Easy|What is 89 - 32?|52|57|55|48|B
+Mathematics|Easy|What is 25% of 80?|20|15|10|5|A
+Mathematics|Easy|Which number is prime?|9|15|17|21|C
+Mathematics|Easy|What is 91 / 7?|12|13|9|8|B
+Mathematics|Easy|How many degrees are there in a straight angle?|90|120|180|360|C
+
+Mathematics|Medium|If 3x + 5 = 20, what is x?|3|5|7|10|B
+Mathematics|Medium|What is the value of 2^5 + 3^2?|16|35|47|41|D
+Mathematics|Medium|The roots of x^2 - 5x + 6 = 0 are?|1,6|2,3|-2,-3|3,4|B
+Mathematics|Medium|What is the derivative of x^3?|x^2|2x^2|2x^3|3x|C
+Mathematics|Medium|What is derivative of sin(x)?|cos(x)|-cos(x)|sin(x)|-sin(x)|A
+Mathematics|Medium|What is the integral of 2x dx?|x^2 + C|2x^2 + C|x + C|2 + C|A
+Mathematics|Medium|If f(x) = 2x + 3, what is f(4)?|7|9|11|12|C
+Mathematics|Medium|What is the determinant of [[2,3],[1,4]]?|5|8|11|2|A
+Mathematics|Medium|What is the slope of the line 2x + 3y = 6?|2/3|-2/3|3/2|-3/2|B
+Mathematics|Medium|What is the distance between (0,0) and (3,4)?|3|4|5|7|C
+Mathematics|Medium|What is the value of sin(30 degrees)?|1/2|1/sqrt(2)|sqrt(3)/2|1|A
+Mathematics|Medium|What is the value of cos(30 degrees)?|1/2|1/sqrt(2)|sqrt(3)/2|1|C
+Mathematics|Medium|If tan(theta) = 1, what is theta between 0 and 90 degrees?|0 degree|30 degree|45 degree|90 degree|C
+Mathematics|Medium|What is the sum of firdt 10 natural numbers?|45|50|55|60|C
+Mathematics|Medium|What is the 10th term of the AP 3, 7, 11, 15, ...?|39|35|40|43|A
+Mathematics|Medium|What is the common difference of the AP 12, 17, 22, 27, ...?|3|4|6|5|D
+Mathematics|Medium|What is the probability of getting a head when a fair coin is tossed?|1/4|1/2|1/3|1|B
+Mathematics|Medium|A die is rolled once. What is the probability of getting an even number?|1/6|1/3|1/2|2/3|C
+Mathematics|Medium|What is the mean of 4, 8, 10, 12 and 16?|8|9|10|12|C
+Mathematics|Medium|What is the mean of 3, 7, 9, 12 and 15?|12|9|8|7|B
+Mathematics|Medium|If log10(x) = 2, what is x?|1000|100|20|10|B
+Mathematics|Medium|What is log2(32)?|5|4|8|6|A
+Mathematics|Medium|What is the value of (3 + 4i) + (2 - i)?|1 + 5i|1 + 3i|5 + 5i|5 + 3i|D
+Mathematics|Medium|What is the modulus of 3 + 4i?|3|4|5|7|C
+Mathematics|Medium|If x + y = 10 and x - y =2, what is x?|4|5|6|8|C
+Mathematics|Medium|If A = {1,2,3} and B = {3,4,5}, what is A intersection B?|{1}|{3}|{4}|{1,3}|B
+Mathematics|Medium|What is the value of 5!?|60|100|120|150|C
+Mathematics|Medium|What is the equation of a line with slope 2 and y-intercept 3?|y = 2x + 3|y = 3x + 2|y = 2x - 3|y = x + 3|A
+Mathematics|Medium|What is the area of a circle with radius 7cm, using pi = 22/7?|44cm^2|154cm^2|308cm^2|49cm^2|B
+Mathematics|Medium|If the peraimeter of a square is 36cm, what is its area?|36cm^2|72cm^2|81cm^2|144cm^2|C
+
+Mathematics|Hard|If A = [[1,2],[3,4]], what is det(A)?|-2|2|10|4|A
+Mathematics|Hard|If f(x) = x^2 + 3x - 5, what is f'(2)?|5|7|8|9|B
+Mathematics|Hard|What is the derivative of x^2 sin(x)?|2x sin(x) + x^2 cos(x)|x^2 cos(x)|2x cos(x)|sin(x) + x^2|A
+Mathematics|Hard|What is the integral of x cos(x) dx?|x sin(x) + cos(x) + C|x sin(x) - cos(x) + C|x cos(x) + sin(x) + C|sin(x) - x cos(x) + C|B
+Mathematics|Hard|If y = ln(x^2 + 1), what is dy/dx?|2x/(x^2=1)|1/(x^2+1)|2/(x^2+1)|x/(x^2+1)|A
+Mathematics|Hard|What is the maximum value of sin(x) + cos(x)?|1|sqrt(2)|2|0|B
+Mathematics|Hard|If tan(theta) = 3/4 and theta is acute, what is sin(theta)?|3/4|4/5|3/5|5/4|C
+Mathematics|Hard|Solve x^2 - 7x + 12 = 0.|2,5|-3,-4|3,4|1,12|C
+Mathematics|Hard|If the roots of x^2 - 6x + k = 0 are equal, what is k?|6|9|12|18|B
+Mathematics|Hard|What is the coefficient of x^2 in (1+x)^5?|10|15|5|20|A
+Mathematics|Hard|What is the sum of first 20 terms of the AP 3, 7, 11, ...?|760|860|840|820|D
+Mathematics|Hard|If the nth term of an AP is 3n + 2, what is its common difference?|6|5|3|2|C
+Mathematics|Hard|What is the sum of the first 10 terms of the GP 2, 4, 8, ...?|1022|1024|2046|512|A
+Mathematics|Hard|If z = 3 + 4i, what is z multiplied by its conjugate?|5|7|25|16|C
+Mathematics|Hard|What is the argument of complex number 1 + i?|0 degrees|30 degrees|45 degrees|90 degrees|C
+Mathematics|Hard|If |z| = 5 and z = 3 + bi, what is the positive value of b?|4|5|2|3|D
+Mathematics|Hard|What is the probability of getting exactly two heads when three fair coins are tossed?|1/8|3/8|1/2|5/8|B
+Mathematics|Hard|Two dice are thrown. What is the probability that their sum is 8?|1/6|5/36|1/9|7/36|B
+Mathematics|Hard|A bag contains 5 red and 3 blue balls. What is the probabilityof drawing two red balls without replacement?|5/14|5/28|10/28|1/2|A
+Mathematics|Hard|If A and B are independent events with P(A)=1/2 and P(B)=1/3, what is P(A intersection B)?|1/5|1/6|2/3|5/6|B
+Mathematics|Hard|What is the inverse of the matrix [[2,3],[1,1]]?|[[1,-1],[-1,2]]|[[2,-1],[-1,1]]|[[1,1],[1,2]]|[[1,-2],[-1,1]]|A
+Mathematics|Hard|If two vectors are perpendicular, what is their dot product?|1|-1|0|Their magnitude|C
+Mathematics|Hard|If a = (1,2,3) and b =(2,1,0), what is a dot b?|2|4|5|6|C
+Mathematics|Hard|What is the magnitude of vector 3i + 4j + 12k?|12|13|19|15|B
+Mathematics|Hard|What is the distance between the points (1,2,3) and (4,6,3)?|4|7|6|5|D
+Mathematics|Hard|What is the equation of the tangent to y = x^2 at x = 2?|y = 4x - 4|y = 2x - 4|y = 4x + 4|y = x + 2|A
+Mathematics|Hard|What is the minimum value of x^2 - 4x + 7?|1|2|3|4|C
+Mathematics|Hard|If f(x) = x^3 - 6x^2 - 9x, at which x-values is f'(x) = 0?|1 and 3|2 and 3|0 and 3|1 and 2|B
+Mathematics|Hard|Evaluate integral from 0 to 1 of 2x dx.|0|1|2|4|B
+Mathematics|Hard|If the determinantof a 2*2 matrix is zero, the matrix is called?|Identity matrix|Singular matrix|Diagonal matrix|Unit matrix|B
+
+Science|Easy|What is the chemical formula of water?|CO2|H2O|O2|NaCl|B
+Science|Easy|Which planet is known as the Red Planet?|Earth|Venus|Mars|Jupiter|C
+Science|Easy|Which gas do humans need for respiration?|Carbon Dioxide|Oxygen|Nitrogen|Hydrogen|B
+Science|Easy|What is the center of an atom called?|Electron|Neutron|Proton|Nucleus|B
+Science|Easy|Which organ pumps blood throughout the human body?|Lungs|Brain|Heart|Kideny|C
+Science|Easy|What force pulls objects toward the Earth?|Friction|Gravity|Magnetism|Pressure|B
+Science|Easy|Which part of a plant absorbs water from the soil?|Leaf|Flower|Root|Stream|C
+Science|Easy|Which vitamin is produced in the skin when exposed to the sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|D
+Science|Easy|What is the boling point of water at sea level?|50 degree Celcius|75 degree Celcius|100 degree Celcius|150 degree Celcius|C
+Science|Easy|Which gas is most abundant in Earth's atmosphere?|Oxygen|Nitrogen|Carbon Dioxide|Hydrogen|B
+Science|Easy|How many bones are there appoximately in an adult human body?|106|206|306|406|B
+Science|Easy|Which organ is mainly responsible for breathing?|Heart|Lungs|Kideny|Stomach|B
+Science|Easy|What is the SI unit of length?|Kilogram|Second|Meter|Newton|C
+Science|Easy|What is the SI unit of mass?|Gram|Kilogram|Newton|Joule|B
+Science|Easy|Which metal is liquid at room temperature?|Iron|Copper|Mercury|Aliminium|C
+Science|Easy|Which planent is the closet to the Sun?|Venus|Mercury|Earth|Mars|B
+Science|Easy|How many planets are in our Solar System?|7|8|9|10|B
+Science|Easy|What is the natural satellite of Earth?|Mars|Sun|Venus|Moon|D
+Science|Easy|Which oragan helps us to see?|Eye|Ear|Nose|Skin|A
+Science|Easy|Which oragan help us to hear?|Nose|Eye|Tounge|Ear|D
+Science|Easy|What is the basic unit of life?|Tissue|Organ|Cell|Atom|C
+Science|Easy|Which blood cells hepl fight infections?|Red blood cell|White blood cell|Platelets|Plasma|B
+Science|Easy|Which blood cell carry oxygen?|White blood cell|Platelets|Red blood cell|Plasma|C
+Science|Easy|What is the main source of energy for Earth?|Moon|Sun|Wind|Water|B
+Science|Easy|Which process do green plants use to make food?|Respiration|Digestion|Photosynthesis|Transpiration|C
+Science|Easy|Which gas do plants absorb during photosynthesis?|Oxygen|Nitogen|Carbon Dioxdie|Hydrogen|C
+Science|Easy|Which gas is released during photosynthesis?|Oxygen|Nitogen|Carbon Dioxdie|Hydrogen|A
+Science|Easy|What is the freezing point of water?|0 degree celcius|10 degree celcius|50 degree celcius|100 degree celcius|A
+Science|Easy|Which instrument is used to measure temperature?|Barometer|Thermometer|Ammeter|Voltmeter|B
+Science|Easy|Which simple machine is commonly used to lift hevy objects?|Lever|Thermometer|Battery|Bulb|A
+
+Science|Medium|What is the SI unit of force?|Joule|Newton|Watt|Pascal|B
+Science|Medium|What is the Si unit of energy?|Newton|Joule|Watt|Volt|B
+Science|Medium|What is the SI unit of power?|Joule|Pascal|Watt|Newton|C
+Science|Medium|Which law states that every action has an equal and opposite reaction?|Newton's First Law|Newton Second Law|Newton Third Law|Law of Gravitation|C
+Science|Medium|What is the acceleration due to gravity on Earth appoximately?|5.8m/s^2|9.8m/s^2|12.8m/s^2|15.8m/s^2|B
+Science|Medium|What qualtity is measurein Hertz?|Force|Frequency|Energy|Power|B
+Science|Medium|What type of energy is dtored in a stretched rubber band?|Kinetic energy|Chemical energy|Potential energy|Thermal energy|C
+Science|Medium|Which phenomenon explain the bending of light when it passes from one medium to another?|Reflection|Refraction|Diffraction|Interference|B
+Science|Medium|Which lens is used to correct short-sightedness?|Concave lens|Convex lens|Cylindrical lens|Plane lens|A
+Science|Medium|Which lens is used to correct long-sightedness?|Concave lens|Convex lens|Cylindrical lens|Plane lens|B
+Science|Medium|What is the pH of a neutreal solution at room temperature?|0|5|7|14|C
+Science|Medium|Which particle determines the atomic number of an element?|Electron|Proton|Neutron|Photon|B
+Science|Medium|What is the charge of an electron?|Positive|Negative|Neutral|Variable|B
+Science|Medium|Which subatomic particle has no electric charge?|Proton|Electron|Neutron|Positron|C
+Science|Medium|What is the chemical symbol for sodium?|So|S|Na|N|C
+Science|Medium|What is the chemical symbol for potassium?|P|Po|K|Pt|C
+Science|Medium|Which gas is released when an acid reacts with a carbonate?|Oxygen|Hydrogen|Carbon Dioxide|Nitogen|C
+Science|Medium|Which type of bond involves the sharing of electrons?|Ironic bond|Covalent bond|Metallic bond|Hydrogen bond|B
+Science|Medium|What is the main function of red blood cells?|Fight infections|Clot blood|Transport oxygen|Produce hormones|C
+Science|Medium|Which part of the cell controls most cellular activities?|Cell wall|Nucleus|Cytoplasm|Ribosome|B
+Science|Medium|Which organ filters waste from the blood?|Heart|Liver|Kidney|Lungs|C
+Science|Medium|Which hormone helps regulate regulate blood sugar levels?|Thyroxine|Insulin|ADrenaline|Estrogen|B
+Science|Medium|Which part of the brain controls balance and coordination?|Cerebrum|Cerebellum|Medulla|Hypothalamus|B
+Science|Medium|What is the process by which plants lose water through their leaves?|Respiration|Transiration|Photosynthesis|Germination|B
+Science|Medium|Which molecule carries genetic information in most living organisms?|ATP|DNA|Glucose|Protein|B
+Science|Medium|What is the basic unit of heredity?|Cell|Gene|Tissue|Chromosome|B
+Science|Medium|Which type of reproduction involve only one parent?|Sexual reproduction|Asexual reproduction|Cross reproduction|External reproduction|B
+Science|Medium|What is the process by which liquid changes into gas?|Condensation|Freezing|Evaporation|Sublimation|C
+Science|Medium|Which is the instrument is used to measure atmospheric Pressure?|Thermometer|Barometer|Ammeter|Hydrometer|B
+Science|Medium|Which type of wave requires a medium to travel?|Light wave|Electromagnetic wave|Sound wave|Radio wave|C
+
+Science|Hard|A body strats from rest and accelerates at 2 m/s^2 for 5 second. What is its final velocity?|5m/s|10m/s|15m/s|20m/s|B
+Science|Hard|A car moving at 20 m/s comes to rest in 5 seconds. What is its acceleration?|-4m/s^2|-2m/s^2|4m/s^2|5m/s^2|A
+Science|Hard|A force of 10 N acts on a body of mass 2 kg. What is its acceleration?|2m/s^2|10m/s^2|5m/s^2|20m/s^2|C
+Science|Hard|A 5 kg object moves with a velocity of 4 m/s. What is its Kinetic energy?|10J|20J|40J|80J|C
+Science|Hard|An object of mass 2 kg is lifted to a height of 5 m. Taking g = 10m/s^2, what is its potential energy?|50J|75J|100J|150J|C
+Science|Hard|What is the dimensional formula of force?|[MLT^-2]|[ML^2T^-2]|[ML^-1T^-2]|[M^-2LT]|A
+Science|Hard|Two resistor of 4 ohm and 6 ohm are connected in series. What is their equivalent resistance?|2 ohm|10 ohm|24 ohm|1.2 ohm|B
+Science|Hard|Two resistor of 6 ohm and 3 ohm are connected in parallel. What is their equivalent resistance?|2 ohm|3 ohm|9 ohm|18 ohm|A
+Science|Hard|A 12 V battery is connected to a 4 ohm resistor. What current flows through the resistor?|2 A|3 A|4 A|48 A|B
+Science|Hard|A bulb operates at 220v and draws 2 A current. What is its power?|110 W|22O W|440 W|880 W|c
+Science|Hard|What happens to the frequency of a wave when it enter another medium?|It always increases|It always decreases|It remains unchanged|It becomes zero|C
+Science|Hard|A wave has a frequency of 50 Hz and wavelength of 4m. What is its dpeed?|12.5m/s|54m/s|200m/s|46m/s|C
+Science|Hard|An object is placed beyond 2F of a convex lens. Where is its image formed?|Between F and 2F|Beyond 2F|At the optical center|At F|A
+Science|Hard|What is the power of a lens having focal length 0.5m?|0.5D|1D|2D|5D|C
+Science|Hard|Which phenomenon demonstrates the wave nature of light?|Photoelectric effect|Interference|Emission|Ionisation|B
+Science|Hard|What is the energy of photon directly proportional to?|Wavelength|Frequency|Speed only|Mass of the source|B
+Science|Hard|Which particale is emitted during beta-minus radioactive decay?|Proton|Neutron|Electron|Alpha particale|C
+Science|Hard|If the half-life of a radioactive substance is 10 years, what fraction remains after 30 years?|1/2|1/4|1/8|1/16|C
+Science|Hard|Which law explains the relationship between current and voltage for a conductor at constant temperature?|Faraday's Law|Ohm's Law|Coulomb's Law|Lenz's Law|B
+Science|Hard|What happens to the resstance of a metallic conductor when its temperature increases?|It decreases|It increases|It becomes zero|It remains exactly|B
+Science|Hard|Which quant number determines the shape of an orbital?|Principal quantum number|Azimuthal quantum number|Magnetic quantum number|Spin quantum number|B
+Science|Hard|Which Principal states that no two electrons in an atom can have the same set of four quantum numbers?|Aufbau Principal|Hund's Rule|Pauli exclusion Principal|Uncertainty Principal|C
+Science|Hard|What is the oxidation state of oxygen in H2O2?|-2|-1|0|+1|B
+Science|Hard|Which reaction involve transfer of electrons between substances?|Neutralisation|Redox reaction|Decomposition|Precipitation|B
+Science|Hard|What is the pH of a solution with hydrigen ion concentration of 10^-3 mol/L?|2|3|10|-3|B
+Science|Hard|Which gas law states that pressure is inversely proportional to volume at constant temperature?|Charles's law|Boyle's law|Avogardro's law|Graham's law|B
+Science|Hard|Which enzym begins the digestion of starch in the mouth?|Pepsin|Trypsin|Amylase|Lipase|B
+Science|Hard|During which stage of mitosis do chromosomes align at the equatorial plate?|Prophase|Metaphase|Anaphase|Telophase|B
+Science|Hard|Which process produces ATP using the electron transport chain in cellular respiration?|Glycolysis|Fermenatation|Oxidative phosphorylation|Transcription|C
+Science|Hard|In DNA, adenine pairs with which nitrogenous base?|Cytosine|Guanine|Thymine|Uraci|C
+
+Programming|Easy|Which language is this quiz project written in?|Python|Java|C++|C|C
+Programming|Easy|Which function is the entry point of a C++ program?|start()|main()|run()|begin()|B
+Programming|Easy|Which symbol is used to end most C++ statements?|.|,|;|:|C
+Programming|Easy|Which keyword is used to declare an integer variable?|float|int|string|char|B
+Programming|Easy|Which data type is used to store a single character?|string|char|float|bool|B
+Programming|Easy|Which data type is used to store decimal numbers?|int|char|float|string|C
+Programming|Easy|Which data type stores true or false?|int|bool|char|double|B
+Programming|Easy|Which symbol starts a single-line comment in C++?|//|##|<!--|**|A
+Programming|Easy|Which header is commonly used for cout and cin?|iostream|fstream|vector|cmath|A
+Programming|Easy|Which object is used to print output in C++?|cin|cout|print|output|B
+Programming|Easy|Which object is used to take input in C++?|cin|cout|input|scan|A
+Programming|Easy|Which operator is used for assignment?|==|=|!=|<=|B
+Programming|Easy|Which operator checks whether two values are equal?|=|==|!=|>=|B
+Programming|Easy|Which keyword is used to make a decision?|if|loop|check|case|A
+Programming|Easy|Which keyword is commonly used with if for another condition?|else|next|otherwise|again|A
+Programming|Easy|Which statement is useful for selecting one option from many?|switch|repeat|select|choose|A
+Programming|Easy|Which loop repeats while a condition is true?|if|while|switch|case|B
+Programming|Easy|Which loop is commonly used when the number of repetitions is known?|for|if|switch|case|A
+Programming|Easy|Which keyword immediately exits a loop?|continue|stop|break|exitloop|C
+Programming|Easy|Which keyword skips the current iteration of a loop?|break|continue|skip|next|B
+Programming|Easy|Which symbol is used to create a block of code?|()|{}|[]|<>|B
+Programming|Easy|What is an array used for?|Storing multiple values|Printing text only|Creating comments|Ending a program|A
+Programming|Easy|What is the first index of a normal C++ array?|0|1|-1|2|A
+Programming|Easy|Which keyword is used to return a value from a function?|give|return|send|back|B
+Programming|Easy|Which keyword is used to create a class?|object|class|structs|define|B
+Programming|Easy|Which container can store a dynamic list of values?|vector|integer|character|loop|A
+Programming|Easy|Which library provides the vector container?|vector|iostream|fstream|random|A
+Programming|Easy|Which library is used for file input and output?|fstream|iostream|string|vector|A
+Programming|Easy|Which operator is used to access a class member through an object?|->|.|::|&|B
+Programming|Easy|Which keyword is used to create an object dynamically?|new|create|object|dynamic|A
+
+Programming|Medium|What is the output of int x = 5; cout << x++;?|4|5|6|Error|B
+Programming|Medium|What is the output of int x = 5; cout << ++x;?|5|6|7|Error|B
+Programming|Medium|Which concept allows the same function name to have different parameters?|Inheritance|Encapsulation|Function overloading|Abstraction|C
+Programming|Medium|Which OOP concept allows a class to acquire properties of another class?|Polymorphism|Inheritance|Encapsulation|Abstraction|B
+Programming|Medium|Which OOP concept combines data and functions into a single unit?|Inheritance|Encapsulation|Compilation|Iteration|B
+Programming|Medium|Which access specifier makes class members accessible from outside the class?|private|protected|public|internal|C
+Programming|Medium|Which access specifier allows access within the class and derived classes?|private|protected|public|external|B
+Programming|Medium|Which access specifier restricts direct access from outside the class?|private|public|global|open|A
+Programming|Medium|What is a constructor?|A function that destroys an object|A special function used to initialize objects|A loop|A variable|B
+Programming|Medium|What is the same name as the class and called automatically when an object is created?|Destructor|Constructor|Main function|Operator|B
+Programming|Medium|Which symbol is used in a destructor declaration?|~|!|#|@|A
+Programming|Medium|Which keyword is used to create a constant variable?|fixed|const|constant|static|B
+Programming|Medium|What does the sizeof operator return?|Value of a variable|Size in bytes|Memory address|Data type name|B
+Programming|Medium|Which operator is used to get the address of a variable?|*|&|@|#|B
+Programming|Medium|Which operator is used to access the value stored at a pointer address?|&|*|->|%|B
+Programming|Medium|What is a pointer?|A variable that stores a memory address|A loop|A class|A function|A
+Programming|Medium|Which symbol is used to access members through a pointer to an object?|.|->|::|&|B
+Programming|Medium|What does recursion mean in programming?|A function calling itself|A loop stopping|Creating a class|Deleting an object|A
+Programming|Medium|Which data structure follows FIFO?|Stack|Queue|Tree|Graph|B
+Programming|Medium|Which data structure follows LIFO?|Queue|Stack|Array|Graph|B
+Programming|Medium|What is the purpose of a function parameter?|To pass information to a function|To end a program|To create a loop|To delete a variable|A
+Programming|Medium|What is a function prototype used for?|To declare a function before its definition|To execute a loop|To create an object|To delete a function|A
+Programming|Medium|What does pass by reference allow a function to do?|Work with a copy only|Modify the original variable|Delete the function|Create a new program|B
+Programming|Medium|Which keyword can be used to allocate memory dynamically?|new|malloc_only|create|memory|A
+Programming|Medium|Which keyword releases memory allocated using new?|delete|remove|free|clear|A
+Programming|Medium|What is polymorphism in OOP?|One interface with multiple forms|Only one class|Data storage|File handling|A
+Programming|Medium|Which keyword is used to define a virtual function?|virtual|dynamic|override|function|A
+Programming|Medium|What is an exception used for?|Handling runtime errors|Creating variables|Sorting arrays|Printing output|A
+Programming|Medium|Which block is used to handle an exception in C++?|catch|handle|error|except|A
+Programming|Medium|Which C++ feature allows a function to work with different data types?|Templates|Comments|Loops|Namespaces|A
+
+Programming|Hard|What is the time complexity of binary search on a sorted array?|O(n)|O(log n)|O(n log n)|O(1)|B
+Programming|Hard|What is the time complexity of accessing an element by index in an array?|O(n)|O(log n)|O(1)|O(n^2)|C
+Programming|Hard|What is the worst-case time complexity of linear search?|O(1)|O(log n)|O(n)|O(n log n)|C
+Programming|Hard|Which sorting algorithm has an average time complexity of O(n log n)?|Bubble Sort|Merge Sort|Linear Search|Selection Sort|B
+Programming|Hard|Which data structure is commonly used to implement recursion?|Queue|Stack|Graph|Array|B
+Programming|Hard|What is the main advantage of a linked list over an array?|Constant-time random access|Dynamic size|Always uses less memory|Elements are sorted automatically|B
+Programming|Hard|In a singly linked list, what does the last node point to?|First node|Previous node|NULL|Middle node|C
+Programming|Hard|Which traversal of a binary search tree produces values in sorted order?|Preorder|Postorder|Inorder|Level order|C
+Programming|Hard|What is the maximum number of children a node in a binary tree can have?|1|2|3|4|B
+Programming|Hard|Which data structure is commonly used for Breadth-First Search?|Stack|Queue|Heap|Linked List|B
+Programming|Hard|Which data structure is commonly used for Depth-First Search?|Queue|Stack|Heap|Hash Table|B
+Programming|Hard|What is the worst-case time complexity of searching in an unsorted array?|O(1)|O(log n)|O(n)|O(n log n)|C
+Programming|Hard|What does a dangling pointer point to?|A valid variable|Memory that is no longer valid|A constant|A function only|B
+Programming|Hard|What is a memory leak?|Memory that is allocated but never properly released|A syntax error|A compiler warning|A deleted variable|A
+Programming|Hard|Which C++ feature allows operators such as + or == to be given custom behavior for user-defined types?|Operator overloading|Function overriding|Templates|Inheritance|A
+Programming|Hard|What is function overriding?|Defining a derived-class function with the same signature as a base-class virtual function|Using multiple parameters|Creating multiple constructors|Calling a function recursively|A
+Programming|Hard|What is a pure virtual function?|A virtual function declared with = 0|A private function|A static function|A constructor|A
+Programming|Hard|What is an abstract class?|A class that cannot be instantiated directly|A class with only integers|A class without functions|A class with no constructor|A
+Programming|Hard|Which principle hides unnecessary implementation details from the user?|Inheritance|Abstraction|Polymorphism|Recursion|B
+Programming|Hard|What is the purpose of a virtual destructor?|To ensure the correct destructor is called when deleting through a base-class pointer|To create objects|To prevent inheritance|To overload operators|A
+Programming|Hard|What is the average time complexity of searching in a well-designed hash table?|O(n)|O(log n)|O(1)|O(n log n)|C
+Programming|Hard|What is a collision in hashing?|Two keys producing the same hash index|Deleting a key|Sorting a table|Creating a new table|A
+Programming|Hard|Which technique is used to resolve hash collisions?|Chaining|Recursion|Binary search|Inheritance|A
+Programming|Hard|What is dynamic polymorphism generally achieved through in C++?|Virtual functions|Macros|Constants|Arrays|A
+Programming|Hard|What is the purpose of a namespace in C++?|To avoid naming conflicts|To allocate memory|To create loops|To sort data|A
+Programming|Hard|What does RAII stand for in C++?|Resource Acquisition Is Initialization|Random Access Is Immediate|Runtime Allocation Is Internal|Resource Assignment Is Iterative|A
+Programming|Hard|Which smart pointer provides exclusive ownership of a dynamically allocated object?|shared_ptr|weak_ptr|unique_ptr|auto_ptr_only|C
+Programming|Hard|Which smart pointer allows multiple objects to share ownership?|unique_ptr|shared_ptr|weak_ptr|raw_ptr|B
+Programming|Hard|What is the purpose of a weak_ptr?|To provide non-owning access to an object managed by shared_ptr|To create arrays|To replace all raw pointers|To allocate stack memory|A
+Programming|Hard|Which principle means a class should have only one reason to change?|Open/Closed Principle|Single Responsibility Principle|Liskov Substitution Principle|Dependency Inversion Principle|B
+
+General Knowledge|Easy|What is the capital of India?|Mumbai|New Delhi|Kolkata|Chennai|B
+General Knowledge|Easy|Which is the largest continent?|Africa|Asia|Europe|Australia|B
+General Knowledge|Easy|Which is the largest ocean in the world?|Atlantic Ocean|Indian Ocean|Pacific Ocean|Arctic Ocean|C
+General Knowledge|Easy|How many continents are there?|5|6|7|8|C
+General Knowledge|Easy|How many days are there in a leap year?|365|366|364|367|B
+General Knowledge|Easy|Which country is known as the Land of the Rising Sun?|China|Japan|South Korea|Thailand|B
+General Knowledge|Easy|What is the currency of Japan?|Won|Yuan|Yen|Dollar|C
+General Knowledge|Easy|Which is the smallest continent?|Europe|Australia|Antarctica|South America|B
+General Knowledge|Easy|Which is the highest mountain in the world?|K2|Mount Everest|Kangchenjunga|Makalu|B
+General Knowledge|Easy|Which planet is known as the Blue Planet?|Mars|Earth|Neptune|Venus|B
+General Knowledge|Easy|How many players are there in a cricket team?|9|10|11|12|C
+General Knowledge|Easy|Which sport is associated with Wimbledon?|Football|Tennis|Cricket|Hockey|B
+General Knowledge|Easy|Who is known as the Father of the Nation in India?|Jawaharlal Nehru|Mahatma Gandhi|Sardar Patel|B. R. Ambedkar|B
+General Knowledge|Easy|What is the national animal of India?|Lion|Tiger|Elephant|Leopard|B
+General Knowledge|Easy|What is the national bird of India?|Sparrow|Peacock|Eagle|Parrot|B
+General Knowledge|Easy|What is the national flower of India?|Rose|Lotus|Sunflower|Lily|B
+General Knowledge|Easy|Which city is known as the Pink City of India?|Jaipur|Jodhpur|Udaipur|Bhopal|A
+General Knowledge|Easy|Which festival is known as the Festival of Lights?|Holi|Diwali|Eid|Christmas|B
+General Knowledge|Easy|How many colors are there in a rainbow?|5|6|7|8|C
+General Knowledge|Easy|Which is the largest planet in our Solar System?|Earth|Saturn|Jupiter|Neptune|C
+General Knowledge|Easy|Which is the smallest planet in our Solar System?|Mercury|Mars|Venus|Earth|A
+General Knowledge|Easy|What is the currency of the United States?|Euro|Dollar|Pound|Yen|B
+General Knowledge|Easy|Which country gifted the Statue of Liberty to the United States?|Germany|France|Italy|Spain|B
+General Knowledge|Easy|Which is the longest river in India?|Ganga|Yamuna|Godavari|Narmada|A
+General Knowledge|Easy|Which Indian state is famous for its tea gardens?|Punjab|Assam|Gujarat|Rajasthan|B
+General Knowledge|Easy|What is the capital of France?|Rome|Madrid|Paris|Berlin|C
+General Knowledge|Easy|Which language has the most native speakers in the world?|English|Hindi|Mandarin Chinese|Spanish|C
+General Knowledge|Easy|How many hours are there in one day?|12|18|24|48|C
+General Knowledge|Easy|Which instrument is used to measure time accurately?|Thermometer|Clock|Barometer|Compass|B
+General Knowledge|Easy|Which animal is commonly known as the King of the Jungle?|Tiger|Lion|Elephant|Leopard|B
+
+General Knowledge|Medium|Which country has the largest population in the world?|India|China|USA|Russia|A
+General Knowledge|Medium|Which is the longest river in the world according to the commonly accepted measurement?|Amazon|Nile|Yangtze|Mississippi|B
+General Knowledge|Medium|Which country is known as the Land of the Midnight Sun?|Norway|Brazil|Egypt|Mexico|A
+General Knowledge|Medium|Which strait separates India and Sri Lanka?|Bering Strait|Palk Strait|Malacca Strait|Gibraltar Strait|B
+General Knowledge|Medium|Which Indian state has the longest coastline?|Maharashtra|Gujarat|Tamil Nadu|Andhra Pradesh|B
+General Knowledge|Medium|Which Indian city is known as the Silicon Valley of India?|Mumbai|Hyderabad|Bengaluru|Pune|C
+General Knowledge|Medium|Who was the first President of India?|Dr. Rajendra Prasad|Jawaharlal Nehru|S. Radhakrishnan|Zakir Husain|A
+General Knowledge|Medium|Who was the first Indian to win a Nobel Prize?|C. V. Raman|Rabindranath Tagore|Mother Teresa|Amartya Sen|B
+General Knowledge|Medium|In which year did India become a republic?|1947|1949|1950|1952|C
+General Knowledge|Medium|Which organization is responsible for maintaining international peace and security?|WHO|UN|WTO|IMF|B
+General Knowledge|Medium|Where is the headquarters of the United Nations?|Geneva|New York|Paris|London|B
+General Knowledge|Medium|Which country hosted the first modern Olympic Games?|France|Greece|Italy|UK|B
+General Knowledge|Medium|Which planet has the largest number of known moons among the major planets?|Earth|Mars|Jupiter|Venus|C
+General Knowledge|Medium|Which is the deepest ocean trench in the world?|Java Trench|Mariana Trench|Tonga Trench|Puerto Rico Trench|B
+General Knowledge|Medium|Which desert is the largest hot desert in the world?|Gobi Desert|Sahara Desert|Thar Desert|Kalahari Desert|B
+General Knowledge|Medium|Which Indian river is known as the Sorrow of Bihar?|Ganga|Kosi|Yamuna|Godavari|B
+General Knowledge|Medium|Which Indian state is known as the Spice Garden of India?|Kerala|Punjab|Haryana|Bihar|A
+General Knowledge|Medium|Which monument was built by Shah Jahan in memory of Mumtaz Mahal?|Red Fort|Qutub Minar|Taj Mahal|Charminar|C
+General Knowledge|Medium|Who wrote the Indian national anthem?|Bankim Chandra Chattopadhyay|Rabindranath Tagore|Sarojini Naidu|Subhash Chandra Bose|B
+General Knowledge|Medium|Which is the highest civilian award in India?|Padma Shri|Padma Bhushan|Padma Vibhushan|Bharat Ratna|D
+General Knowledge|Medium|Which country is famous for the ancient city of Machu Picchu?|Peru|Chile|Mexico|Brazil|A
+General Knowledge|Medium|Which international organization deals mainly with global public health?|UNESCO|WHO|WTO|UNICEF|B
+General Knowledge|Medium|What does GDP stand for?|Gross Domestic Product|General Development Plan|Global Domestic Production|Gross Development Percentage|A
+General Knowledge|Medium|Which country is home to the Great Barrier Reef?|India|Australia|Indonesia|South Africa|B
+General Knowledge|Medium|Which Indian space organization launched the Chandrayaan missions?|DRDO|ISRO|HAL|BARC|B
+General Knowledge|Medium|Which city is known as the City of Canals?|Paris|Venice|Amsterdam|Lisbon|B
+General Knowledge|Medium|Which is the largest island in the world?|Greenland|Madagascar|Borneo|New Guinea|A
+General Knowledge|Medium|Which Indian state is home to the Kaziranga National Park?|Assam|West Bengal|Odisha|Madhya Pradesh|A
+General Knowledge|Medium|Who was the first person to walk on the Moon?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Michael Collins|B
+General Knowledge|Medium|Which gas is primarily responsible for the greenhouse effect among the following?|Oxygen|Carbon Dioxide|Nitrogen|Helium|B
+
+General Knowledge|Hard|Which treaty formally ended World War I?|Treaty of Versailles|Treaty of Paris|Treaty of Vienna|Treaty of Rome|A
+General Knowledge|Hard|Which civilization developed the ancient city of Machu Picchu?|Roman|Inca|Maya|Egyptian|B
+General Knowledge|Hard|Which is the largest country in the world by land area?|Canada|China|Russia|USA|C
+General Knowledge|Hard|Which sea separates Europe and Africa?|Red Sea|Mediterranean Sea|Arabian Sea|Black Sea|B
+General Knowledge|Hard|Which mountain range traditionally separates Europe and Asia?|Alps|Himalayas|Ural Mountains|Andes|C
+General Knowledge|Hard|Which country has the city of Petra, an ancient archaeological site?|Jordan|Egypt|Turkey|Iran|A
+General Knowledge|Hard|Which ancient wonder was located in Alexandria?|Hanging Gardens|Lighthouse of Alexandria|Temple of Artemis|Colossus of Rhodes|B
+General Knowledge|Hard|Who was the first woman to win a Nobel Prize?|Marie Curie|Mother Teresa|Rosalind Franklin|Ada Lovelace|A
+General Knowledge|Hard|Which scientist formulated the laws of planetary motion?|Isaac Newton|Johannes Kepler|Galileo Galilei|Albert Einstein|B
+General Knowledge|Hard|Which scientist proposed the theory of general relativity?|Isaac Newton|Albert Einstein|Niels Bohr|Max Planck|B
+General Knowledge|Hard|Which element has the atomic number 79?|Silver|Gold|Platinum|Mercury|B
+General Knowledge|Hard|Which is the hardest naturally occurring mineral?|Quartz|Diamond|Topaz|Corundum|B
+General Knowledge|Hard|Which layer of Earth's atmosphere contains most of the ozone layer?|Troposphere|Stratosphere|Mesosphere|Thermosphere|B
+General Knowledge|Hard|Which is the deepest known point in Earth's oceans?|Tonga Deep|Challenger Deep|Puerto Rico Trench|Java Trench|B
+General Knowledge|Hard|Which country is completely surrounded by South Africa?|Lesotho|Eswatini|Botswana|Namibia|A
+General Knowledge|Hard|Which Indian classical dance originated in Kerala?|Kathak|Bharatanatyam|Kathakali|Odissi|C
+General Knowledge|Hard|Which Indian ruler built the Sanchi Stupa?|Ashoka|Chandragupta Maurya|Akbar|Harshavardhana|A
+General Knowledge|Hard|Which ancient university was located in present-day Bihar?|Takshashila|Nalanda|Vikramashila|Valabhi|B
+General Knowledge|Hard|Who founded the Maurya Empire?|Ashoka|Chandragupta Maurya|Bindusara|Samudragupta|B
+General Knowledge|Hard|Which Mughal emperor commissioned the Buland Darwaza?|Babur|Akbar|Shah Jahan|Aurangzeb|B
+General Knowledge|Hard|Which Indian movement was launched in 1942?|Non-Cooperation Movement|Civil Disobedience Movement|Quit India Movement|Swadeshi Movement|C
+General Knowledge|Hard|Who gave the slogan "Swaraj is my birthright"?|Mahatma Gandhi|Bal Gangadhar Tilak|Subhas Chandra Bose|Jawaharlal Nehru|B
+General Knowledge|Hard|Which constitutional amendment lowered the voting age in India from 21 to 18?|42nd Amendment|44th Amendment|61st Amendment|73rd Amendment|C
+General Knowledge|Hard|Which part of the Indian Constitution deals with Fundamental Rights?|Part I|Part II|Part III|Part IV|C
+General Knowledge|Hard|Which body is known as the guardian of the Indian Constitution?|Parliament|Supreme Court|President|Election Commission|B
+General Knowledge|Hard|Which Indian state was the first to be created on linguistic basis after independence?|Andhra State|Gujarat|Maharashtra|Kerala|A
+General Knowledge|Hard|Which international court is located in The Hague and settles disputes between states?|International Criminal Court|International Court of Justice|Permanent Court of Arbitration|European Court of Human Rights|B
+General Knowledge|Hard|Which economic term describes a sustained increase in the general price level?|Deflation|Inflation|Recession|Depression|B
+General Knowledge|Hard|Which organization publishes the Human Development Report?|World Bank|UNDP|IMF|UNESCO|B
+General Knowledge|Hard|Which Nobel Prize category was not included in Alfred Nobel's original will?|Physics|Chemistry|Literature|Economic Sciences|D
